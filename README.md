@@ -3,14 +3,14 @@
 
 ## Setting Up (For Mac)
 
-####Option 1. - Apache/Nginx
+####Option 1 - Apache/Nginx
 
 Set your apache config to use /app as the root directory. After this you should be good to go at http://localhost or equivalent.
 
-####Option 2. - Grunt
+####Option 2 - Grunt
 
 
-Fire up the development server
+Fire up the development server using the command
 
 ```
 $ grunt serve
@@ -18,7 +18,7 @@ $ grunt serve
 
 This should start the development server and the web page should open.
 
-If this doesnt work, try
+If this does not work, try the command
 
 ```
 $ npm install
